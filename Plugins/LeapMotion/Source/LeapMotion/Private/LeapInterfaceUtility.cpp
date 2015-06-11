@@ -188,29 +188,29 @@ LeapBasicDirection basicDirection(FVector direction)
 	if (x >= y && x >= z)
 	{
 		if (direction.X < -0.5)
-			return LeapBasicDirection::DIRECTION_TOWARD;
+			return LeapBasicDirection::LEAP_DIRECTION_TOWARD;
 		else if (direction.X > 0.5)
-			return LeapBasicDirection::DIRECTION_AWAY;
+			return LeapBasicDirection::LEAP_DIRECTION_AWAY;
 	}
 	//is basic in y?
 	else if (y >= x && y >= z)
 	{
 		if (direction.Y < -0.5)
-			return LeapBasicDirection::DIRECTION_LEFT;
+			return LeapBasicDirection::LEAP_DIRECTION_LEFT;
 		else if (direction.Y > 0.5)
-			return LeapBasicDirection::DIRECTION_RIGHT;
+			return LeapBasicDirection::LEAP_DIRECTION_RIGHT;
 	}
 	//is basic in z?
 	else if (z >= x && z >= y)
 	{
 		if (direction.Z < -0.5)
-			return LeapBasicDirection::DIRECTION_DOWN;
+			return LeapBasicDirection::LEAP_DIRECTION_DOWN;
 		else if (direction.Z > 0.5)
-			return LeapBasicDirection::DIRECTION_UP;
+			return LeapBasicDirection::LEAP_DIRECTION_UP;
 	}
 	
 	//If we haven't returned by now, the direction is none
-	return LeapBasicDirection::DIRECTION_NONE;
+	return LeapBasicDirection::LEAP_DIRECTION_NONE;
 }
 
 //Utility function used to debug address allocation - helped find the cdcdcdcd allocation error
