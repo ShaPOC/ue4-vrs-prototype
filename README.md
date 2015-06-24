@@ -102,6 +102,8 @@ More information can be found here: [Muse](http://www.choosemuse.com/)
 
 ## Included with this project
 
+The _Plugins folder__ contains the JoystickPlugin plugin, which enables the use of a HOTAS.
+
 The __Maya folder__ contains the models used in the project as .mb (Maya) files and the .fbx file as derived from them and used within the Unreal Engine 4 project. 
 
 ## How about a license of some sort?
