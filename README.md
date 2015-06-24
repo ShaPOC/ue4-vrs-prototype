@@ -1,7 +1,7 @@
 # Virtual Reality Sickness Testrooms
 > __Made with Unreal Engine 4__
 
-__ Note: This branch does not include a visual representation of an avatar in the virtual environment __
+__Note: This branch does not include a visual representation of an avatar in the virtual environment__
 
 ## What is it?
 
