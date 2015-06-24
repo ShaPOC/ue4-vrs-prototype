@@ -3,22 +3,22 @@
 
 ## Table of Contents
 
-- [Virtual Reality Sickness Testrooms](#)
-	- [What is it?](#)
-	- [What kind of testrooms?](#)
-		- [First room](#)
-		- [Second room](#)
-		- [Third room](#)
-		- [Fourth room](#)
-		- [Fifth room](#)
-	- [Prerequisites](#)
-		- [Hardware](#)
-		- [System requirements](#)
-	- [Test setup](#)
-	- [Tools](#)
-		- [Muse](#)
-	- [Included with this project](#)
-	- [How about a license of some sort?](#)
+- [Virtual Reality Sickness Testrooms](#virtual-reality-sickness-testrooms)
+	- [What is it?](#what-is-it)
+	- [What kind of testrooms?](#what-kind-of-testrooms)
+		- [First room](#first-room)
+		- [Second room](#second-room)
+		- [Third room](#third-room)
+		- [Fourth room](#fourth-room)
+		- [Fifth room](#fifth-room)
+	- [Prerequisites](#prerequisites)
+		- [Hardware](#hardware)
+		- [System requirements](#system-requirements)
+	- [Test setup](#test-setup)
+	- [Tools](#tools)
+		- [Muse](#muse)
+	- [Included with this project](#included-with-this-project)
+	- [How about a license of some sort?](#how-about-a-license-of-some-sort)
 
 ## What is it?
 
