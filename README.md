@@ -3,15 +3,17 @@
 
 ## What is it?
 
-This project was used to test the differences in the effects of virtual reality sickness when adding an avatar to a virtual environment using an HMD. Five different testrooms were specifically designed to invoke virtual reality sickness in the user. On the Github branch: [WithoutMimicking](https://github.com/ShaPOC/ue4-vrs-prototype/tree/WithoutMimicking) you will find the same test but lacking the avatar. Both tests, on this and the [WithoutMimicking branch](https://github.com/ShaPOC/ue4-vrs-prototype/tree/WithoutMimicking), were run by a set of people to try and find a difference in virtual reality sickness symptoms when adding the avatar variable.
+This project was used to test the differences in the effects of virtual reality sickness whilst using an HMD and when adding an avatar to a virtual environment. Five different testrooms were specifically designed to invoke virtual reality sickness in the user. 
 
-> Sidenote: The contents of the UI are momentarily written in Dutch.
+On the Github branch: [WithoutMimicking](https://github.com/ShaPOC/ue4-vrs-prototype/tree/WithoutMimicking) you will find the same test but __lacking__ the avatar. Both tests, on this and the [WithoutMimicking branch](https://github.com/ShaPOC/ue4-vrs-prototype/tree/WithoutMimicking), were run by a set of people to try and find a difference in virtual reality sickness symptoms when adding the avatar variable.
 
 ## What kind of testrooms?
 
-The user has free movement throughout the test and will walk through a series of five testrooms. Each room will only open once the test in the previous rooms have been completed.
+The user has free movement throughout the test and will walk through a series of five testrooms. Every next room will only open once the tests in the previous rooms have been completed.
 
-Each test room has some instructions for the user, like follow a path or concentrate on a flying object. Once the user starts doing this, some virtual reality sickness inducing factors will be applied in the background.
+Each test room has some instructions for the user, E.G. follow a path or concentrate on a flying object. Once the user starts doing this, virtual reality sickness inducing factors will be applied in the background.
+
+> Sidenote: The contents of the UI and therefore the instructions are momentarily written in Dutch.
 
 ### First room
 
@@ -102,8 +104,16 @@ To be able to register the amount of virtual reality sickness induced by the tes
 The Muse is a brainwave band capable of reading EEG signals and specific movements in face muscles. 
 More information can be found here: [Muse](http://www.choosemuse.com/)
 
+## Included with this project
+
+For convenience the plugins; Kinect4Unreal, LeapMotion and JoystickPlugin are included with the project. __These are not created by me!__ They can be found in the plugins folder. Also the .dll drivers and resources for the leap motion are included within the Binaries and Build folder. 
+
+The __Maya folder__ contains the models used in the project as .mb (Maya) files and the .fbx file as derived from them and used within the Unreal Engine 4 project. 
+
 ## How about a license of some sort?
 
-GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+Licenses for each plugin used are included with the plugin itself.
+For everything else a GPLv3 license applies.
 
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 As seen here: [GPLv3 License](./LICENSE)
