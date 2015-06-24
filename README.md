@@ -1,6 +1,25 @@
 # Virtual Reality Sickness Testrooms
 > __Made with Unreal Engine 4__
 
+## Table of Contents
+
+- [Virtual Reality Sickness Testrooms](#)
+	- [What is it?](#)
+	- [What kind of testrooms?](#)
+		- [First room](#)
+		- [Second room](#)
+		- [Third room](#)
+		- [Fourth room](#)
+		- [Fifth room](#)
+	- [Prerequisites](#)
+		- [Hardware](#)
+		- [System requirements](#)
+	- [Test setup](#)
+	- [Tools](#)
+		- [Muse](#)
+	- [Included with this project](#)
+	- [How about a license of some sort?](#)
+
 ## What is it?
 
 This project was used to test the differences in the effects of virtual reality sickness whilst using an HMD and when adding an avatar to a virtual environment. Five different testrooms were specifically designed to invoke virtual reality sickness in the user. 
