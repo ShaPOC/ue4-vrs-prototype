@@ -3,6 +3,25 @@
 
 __Note: This branch does not include a visual representation of an avatar in the virtual environment__
 
+## Table of Contents
+
+- [Virtual Reality Sickness Testrooms](#virtual-reality-sickness-testrooms)
+	- [What is it?](#what-is-it)
+	- [What kind of testrooms?](#what-kind-of-testrooms)
+		- [First room](#first-room)
+		- [Second room](#second-room)
+		- [Third room](#third-room)
+		- [Fourth room](#fourth-room)
+		- [Fifth room](#fifth-room)
+	- [Prerequisites](#prerequisites)
+		- [Hardware](#hardware)
+		- [System requirements](#system-requirements)
+	- [Test setup](#test-setup)
+	- [Tools](#tools)
+		- [Muse](#muse)
+	- [Included with this project](#included-with-this-project)
+	- [How about a license of some sort?](#how-about-a-license-of-some-sort)
+
 ## What is it?
 
 This project was used to test the differences in the effects of virtual reality sickness whilst using an HMD and when adding an avatar to a virtual environment. Five different testrooms were specifically designed to invoke virtual reality sickness in the user. 
