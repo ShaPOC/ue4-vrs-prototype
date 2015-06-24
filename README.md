@@ -85,12 +85,6 @@ The avatar in the virtual environment looks like this;
 
 ![The avatar](https://raw.githubusercontent.com/ShaPOC/ue4-vrs-prototype/master/Extra/Avatar.PNG)
 
-So the best course of action is to place the user within sight of the Kinect as follows;
-
-![Kinect User Position from the side](https://raw.githubusercontent.com/ShaPOC/ue4-vrs-prototype/master/Extra/SittingSide.png) ![Kinect User Position from the top](https://raw.githubusercontent.com/ShaPOC/ue4-vrs-prototype/master/Extra/SittingTop.png)
-
-> __it's incredibly important that the front of the user is not blocked! The Kinect must have a full view of the user__
-
 ## Tools
 
 To be able to register the amount of virtual reality sickness induced by the test, you will be needing a few tools. The questionnaire and the webserver are created specifically for this test. The Node Muse N.P.M. module is created as a general purpose module to use Muse with Node.js.
@@ -107,8 +101,6 @@ The Muse is a brainwave band capable of reading EEG signals and specific movemen
 More information can be found here: [Muse](http://www.choosemuse.com/)
 
 ## Included with this project
-
-For convenience the plugins; Kinect4Unreal, LeapMotion and JoystickPlugin are included with the project. __These are not created by me!__ They can be found in the plugins folder. Also the .dll drivers and resources for the leap motion are included within the Binaries and Build folder. 
 
 The __Maya folder__ contains the models used in the project as .mb (Maya) files and the .fbx file as derived from them and used within the Unreal Engine 4 project. 
 
